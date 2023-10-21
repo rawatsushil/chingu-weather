@@ -20,8 +20,7 @@ Mapbox API Key for geocoding (Optional, get yours [here](https://docs.mapbox.com
 
 1. Clone this repository:
 ````
-git clone https://github.com/your-username/weather-cli.git
-cd weather-cli
+git clone git@github.com:rawatsushil/chingu-weather.git
 ````
 
 1. Install required Python packages:
